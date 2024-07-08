@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Navigation\AndroidUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Archiwizacje\ArchiwizacjaCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Archiwizacje\ArchiwizacjaEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Archiwizacje\ArchiwizacjeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\BaseUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\BazaWiedzy\BazaWiedzyUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\BazaWiedzy\WiedzaCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\BazaWiedzy\WiedzaEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DisplayPhoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DzialaniaSerwisowe\DzialaniaSerwisoweUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\DzialaniaSerwisowe\DzialanieSerwisoweCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DzialaniaSerwisowe\DzialanieSerwisoweEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Firmy\FirmaCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Firmy\FirmaDetails\FirmaDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Firmy\FirmaDetails\Sprzety\SprzetyUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Firmy\FirmaEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Firmy\FirmyUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Gwarancje\GwarancjaCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Gwarancje\GwarancjaEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Gwarancje\GwarancjeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\HaslaInfo\HasloInfoCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\HaslaInfo\HasloInfoEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\HaslaInfo\HasloInfoUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Hostingi\HostingCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Hostingi\HostingEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Hostingi\HostingUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\InformacjeSprzedazowe\InformacjaSprzedazowaCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\InformacjeSprzedazowe\InformacjaSprzedazowaEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\InformacjeSprzedazowe\InformacjeSprzedazoweUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Navigation\ITUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Kontakty\KontaktCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Kontakty\KontaktEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Kontakty\KontaktyUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Navigation\KontaktZklientemCRMUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Navigation\LogiUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Naprawy\NaprawaCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Naprawy\NaprawaEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Naprawy\NaprawyUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Pracownicy\PracownicyUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Pracownicy\PracownikCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pracownicy\PracownikEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Preferencje\LicencjaWolna\LicencjaCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Preferencje\LicencjaWolna\LicencjaEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Preferencje\LicencjaWolna\LicencjeWolneUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Preferencje\LicencjaWolna\Przypisz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Preferencje\PreferencjeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Preferencje\RodzajeSprzetow\RodzajeSprzetuCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Preferencje\RodzajeSprzetow\RodzajeSprzetuUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Preferencje\Sprzety\SprzetCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Preferencje\Sprzety\SprzetEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Preferencje\Sprzety\SprzetUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Raporty\RaportyUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Siec\SiecUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\SprzetLicencje\SprzetLicencjaCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SprzetLicencje\SprzetLicencjaEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SprzetLicencje\SprzetLicencjeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Sprzety\SprzetCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Sprzety\SprzetEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Sprzety\SprzetUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\TabliceInformacyjne\TablicaInformacyjnaUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Terminy\TerminyUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Umowy\UmowaCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Umowy\UmowaEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Umowy\UmowyUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Uprawnienia\UprawnieniaUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Uprawnienia\UprawnienieCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

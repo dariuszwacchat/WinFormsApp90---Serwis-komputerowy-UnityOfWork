@@ -1,0 +1,481 @@
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\WinFormsApp90.exe
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\WinFormsApp90.deps.json
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\WinFormsApp90.runtimeconfig.json
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\WinFormsApp90.runtimeconfig.dev.json
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\ref\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\WinFormsApp90.pdb
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Form1.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.csproj.GenerateResource.cache
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.AssemblyInfoInputs.cache
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.AssemblyInfo.cs
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\ref\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.pdb
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.genruntimeconfig.cache
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.Sprzety.SprzetUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.PreferencjeForm.resources
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\DataAutogenerator.NetCore.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.csproj.CopyComplete
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.Sprzety.SprzetCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.Sprzety.SprzetEdit.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Sprzety.SprzetCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Sprzety.SprzetEdit.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Kopia.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaDetails.FirmaDetailsForm.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaDetails.Sprzety.SprzetyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.RodzajeSprzetow.RodzajeSprzetuCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.RodzajeSprzetow.RodzajeSprzetuUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Kontakty.KontaktCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Kontakty.KontaktEdit.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Archiwizacje.ArchiwizacjaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Archiwizacje.ArchiwizacjaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.BazaWiedzy.WiedzaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.BazaWiedzy.WiedzaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.DzialaniaSerwisowe.DzialanieSerwisoweCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.DzialaniaSerwisowe.DzialanieSerwisoweEdit.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Gwarancje.GwarancjaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Gwarancje.GwarancjaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.HaslaInfo.HasloInfoCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.HaslaInfo.HasloInfoEdit.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Hostingi.HostingCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Hostingi.HostingEdit.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.InformacjeSprzedazowe.InformacjaSprzedazowaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.InformacjeSprzedazowe.InformacjaSprzedazowaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Licencje.LicencjaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Licencje.LicencjaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Naprawy.NaprawaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Naprawy.NaprawaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Pracownicy.PracownikCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Pracownicy.PracownikEdit.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Uprawnienia.UprawnienieCreate.resources
+C:\Users\M\source\repos\WinFormsApp90\obj\Debug\net5.0-windows\WinFormsApp90.csproj.AssemblyReference.cache
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\WinFormsApp90.exe
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\WinFormsApp90.deps.json
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\WinFormsApp90.runtimeconfig.json
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\WinFormsApp90.runtimeconfig.dev.json
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\ref\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\WinFormsApp90.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\DataAutogenerator.NetCore.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Form1.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Archiwizacje.ArchiwizacjaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Archiwizacje.ArchiwizacjaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.BazaWiedzy.WiedzaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.BazaWiedzy.WiedzaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.DzialaniaSerwisowe.DzialanieSerwisoweCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.DzialaniaSerwisowe.DzialanieSerwisoweEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaDetails.FirmaDetailsForm.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaDetails.Sprzety.SprzetyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Gwarancje.GwarancjaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Gwarancje.GwarancjaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.HaslaInfo.HasloInfoCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.HaslaInfo.HasloInfoEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Hostingi.HostingCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Hostingi.HostingEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.InformacjeSprzedazowe.InformacjaSprzedazowaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.InformacjeSprzedazowe.InformacjaSprzedazowaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Kontakty.KontaktCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Kontakty.KontaktEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Naprawy.NaprawaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Naprawy.NaprawaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Pracownicy.PracownikCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Pracownicy.PracownikEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.PreferencjeForm.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.RodzajeSprzetow.RodzajeSprzetuCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.RodzajeSprzetow.RodzajeSprzetuUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.Sprzety.SprzetCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.Sprzety.SprzetEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.Sprzety.SprzetUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Sprzety.SprzetCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Sprzety.SprzetEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Uprawnienia.UprawnienieCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.csproj.GenerateResource.cache
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.AssemblyInfoInputs.cache
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.AssemblyInfo.cs
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.csproj.CopyComplete
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\ref\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.genruntimeconfig.cache
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Umowy.UmowaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Umowy.UmowaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Properties.Resources.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.SprzetLicencje.SprzetLicencjaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.SprzetLicencje.SprzetLicencjaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.DisplayPhoto.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Kopia2.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Archiwizacje.ArchiwizacjeUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.BazaWiedzy.BazaWiedzyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.DzialaniaSerwisowe.DzialaniaSerwisoweUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Gwarancje.GwarancjeUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.HaslaInfo.HasloInfoUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Hostingi.HostingUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.InformacjeSprzedazowe.InformacjeSprzedazoweUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Kontakty.KontaktyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Naprawy.NaprawyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Pracownicy.PracownicyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.SprzetLicencje.SprzetLicencjeUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Sprzety.SprzetUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Umowy.UmowyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Raporty.RaportyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Siec.SiecUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.TabliceInformacyjne.TablicaInformacyjnaUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Terminy.TerminyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Uprawnienia.UprawnieniaUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.LicencjaWolna.LicencjaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.LicencjaWolna.LicencjaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.LicencjaWolna.LicencjeWolneUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.LicencjaWolna.Przypisz.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.csproj.AssemblyReference.cache
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy\obj\Debug\net5.0-windows\WinFormsApp90.Forms.LoginForm.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.csproj.AssemblyReference.cache
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Form1.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Archiwizacje.ArchiwizacjaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Archiwizacje.ArchiwizacjaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Archiwizacje.ArchiwizacjeUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.BazaWiedzy.BazaWiedzyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.BazaWiedzy.WiedzaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.BazaWiedzy.WiedzaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.DisplayPhoto.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.DzialaniaSerwisowe.DzialaniaSerwisoweUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.DzialaniaSerwisowe.DzialanieSerwisoweCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.DzialaniaSerwisowe.DzialanieSerwisoweEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaDetails.FirmaDetailsForm.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaDetails.Sprzety.SprzetyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Gwarancje.GwarancjaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Gwarancje.GwarancjaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Gwarancje.GwarancjeUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.HaslaInfo.HasloInfoCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.HaslaInfo.HasloInfoEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.HaslaInfo.HasloInfoUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Hostingi.HostingCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Hostingi.HostingEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Hostingi.HostingUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.InformacjeSprzedazowe.InformacjaSprzedazowaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.InformacjeSprzedazowe.InformacjaSprzedazowaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.InformacjeSprzedazowe.InformacjeSprzedazoweUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Kontakty.KontaktCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Kontakty.KontaktEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Kontakty.KontaktyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.LoginForm.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Naprawy.NaprawaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Naprawy.NaprawaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Naprawy.NaprawyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Pracownicy.PracownicyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Pracownicy.PracownikCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Pracownicy.PracownikEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.LicencjaWolna.LicencjaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.LicencjaWolna.LicencjaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.LicencjaWolna.LicencjeWolneUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.LicencjaWolna.Przypisz.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.PreferencjeForm.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.RodzajeSprzetow.RodzajeSprzetuCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.RodzajeSprzetow.RodzajeSprzetuUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.Sprzety.SprzetCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.Sprzety.SprzetEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.Sprzety.SprzetUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Raporty.RaportyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Siec.SiecUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.SprzetLicencje.SprzetLicencjaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.SprzetLicencje.SprzetLicencjaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.SprzetLicencje.SprzetLicencjeUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Sprzety.SprzetCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Sprzety.SprzetEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Sprzety.SprzetUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.TabliceInformacyjne.TablicaInformacyjnaUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Terminy.TerminyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Umowy.UmowaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Umowy.UmowaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Umowy.UmowyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Uprawnienia.UprawnieniaUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Uprawnienia.UprawnienieCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Properties.Resources.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.csproj.GenerateResource.cache
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.AssemblyInfoInputs.cache
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.AssemblyInfo.cs
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\ref\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\WinFormsApp90.exe
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\WinFormsApp90.deps.json
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\WinFormsApp90.runtimeconfig.json
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\WinFormsApp90.runtimeconfig.dev.json
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\ref\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\WinFormsApp90.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\DataAutogenerator.NetCore.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.csproj.CopyComplete
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.genruntimeconfig.cache
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.g.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork\obj\Debug\net5.0-windows\WinFormsApp90.Forms.ITUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.csproj.AssemblyReference.cache
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.g.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Form1.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Archiwizacje.ArchiwizacjaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Archiwizacje.ArchiwizacjaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Archiwizacje.ArchiwizacjeUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.BazaWiedzy.BazaWiedzyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.BazaWiedzy.WiedzaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.BazaWiedzy.WiedzaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.DisplayPhoto.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.DzialaniaSerwisowe.DzialaniaSerwisoweUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.DzialaniaSerwisowe.DzialanieSerwisoweCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.DzialaniaSerwisowe.DzialanieSerwisoweEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaDetails.FirmaDetailsForm.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaDetails.Sprzety.SprzetyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Firmy.FirmyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Gwarancje.GwarancjaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Gwarancje.GwarancjaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Gwarancje.GwarancjeUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.HaslaInfo.HasloInfoCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.HaslaInfo.HasloInfoEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.HaslaInfo.HasloInfoUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Hostingi.HostingCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Hostingi.HostingEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Hostingi.HostingUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.InformacjeSprzedazowe.InformacjaSprzedazowaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.InformacjeSprzedazowe.InformacjaSprzedazowaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.InformacjeSprzedazowe.InformacjeSprzedazoweUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Kontakty.KontaktCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Kontakty.KontaktEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Kontakty.KontaktyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.LoginForm.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Naprawy.NaprawaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Naprawy.NaprawaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Naprawy.NaprawyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Pracownicy.PracownicyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Pracownicy.PracownikCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Pracownicy.PracownikEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.LicencjaWolna.LicencjaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.LicencjaWolna.LicencjaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.LicencjaWolna.LicencjeWolneUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.LicencjaWolna.Przypisz.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.PreferencjeForm.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.RodzajeSprzetow.RodzajeSprzetuCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.RodzajeSprzetow.RodzajeSprzetuUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.Sprzety.SprzetCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.Sprzety.SprzetEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Preferencje.Sprzety.SprzetUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Raporty.RaportyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Siec.SiecUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.SprzetLicencje.SprzetLicencjaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.SprzetLicencje.SprzetLicencjaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.SprzetLicencje.SprzetLicencjeUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Sprzety.SprzetCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Sprzety.SprzetEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Sprzety.SprzetUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.TabliceInformacyjne.TablicaInformacyjnaUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Terminy.TerminyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Umowy.UmowaCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Umowy.UmowaEdit.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Umowy.UmowyUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Uprawnienia.UprawnieniaUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.Uprawnienia.UprawnienieCreate.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.AndroidUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.ITUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.KontaktZklientemCRMUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Forms.LogiUserControl.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.Properties.Resources.resources
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.csproj.GenerateResource.cache
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.AssemblyInfoInputs.cache
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.AssemblyInfo.cs
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\ref\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\WinFormsApp90.exe
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\WinFormsApp90.deps.json
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\WinFormsApp90.runtimeconfig.json
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\WinFormsApp90.runtimeconfig.dev.json
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\ref\WinFormsApp90.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\WinFormsApp90.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\DataAutogenerator.NetCore.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.csproj.CopyComplete
+C:\Users\M\source\repos\WinFormsApp90 - Serwis komputerowy, UnityOfWork — kopia\obj\Debug\net5.0-windows\WinFormsApp90.genruntimeconfig.cache
